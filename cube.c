@@ -2,6 +2,7 @@
 
 int main()
 {
+    // Write a program in C to display the cube of the number upto given an integer.
     int i,n;
     printf("Enter the number of terms:\n");
     scanf("%d", &n);
