@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
    int j,i,n;
    printf("Input upto the table number starting from 1 : ");
